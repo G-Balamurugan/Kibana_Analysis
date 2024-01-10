@@ -1,1 +1,3 @@
-"Filtered result are rendered here ...!"
+{
+  message : "Filtered result are rendered here ...!"
+}
